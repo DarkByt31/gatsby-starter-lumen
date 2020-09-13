@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://shivansh.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Byte Blog by Shivansh',
+  subtitle: 'Byte, for your mega apetite of knowledge',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Shivansh Handa',
+    photo: '/photo1_crop.jpg',
+    bio: 'Trying to be a Software Engineer...(-^-)', 
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'avihs.29@gmail.com',
+      facebook: 'shivansh.handa/',
+      telegram: '',
+      twitter: '',
+      github: 'DarkByt31',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'shivansh-handa/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
