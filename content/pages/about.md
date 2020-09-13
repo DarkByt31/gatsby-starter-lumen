@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Arent you a curious person here? :P  
+Arent **you** a curious person? :P  
 
 Currently a Software Engineer, working in Bangalore, India.  
 
