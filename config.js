@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://shivhanda.netlify.com',
   pathPrefix: '/',
-  title: 'Byte Blog by Shivansh',
+  title: 'Blog by Shivansh',
   subtitle: 'Byte, for your mega apetite of knowledge',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Shivansh Handa',
     photo: '/photo1_crop.jpg',
-    bio: 'Trying to be a Software Engineer...(-^-)', 
+    bio: 'Trying to be a Software Engineer...', 
     contacts: {
       email: 'avihs.29@gmail.com',
       facebook: 'shivansh.handa/',
