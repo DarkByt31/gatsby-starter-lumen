@@ -12,13 +12,13 @@ tags:
   - "finance"
   - "fresher"
   - "tax"
-description: "As a fresher most of us are unknown to the financial side of the world. It is important to take our finance in our own hands and invest it at the right place so that you can make most of your 'in-hand':P. In this article I will start with why do you need financial planning and how you can do it on your own."
+description: "As a fresher most of us are unknown to the financial side of the world. It is important to take our finance in our own hands and invest it at the right place so that you can make most of your 'in-hand':P. In this article I will start with why do we need financial planning and how we can do it on your own."
 socialImage: "/media/fin_plan.jpeg"
 ---
 
 Most of us live on our parents money before getting into full time job. So the only thing we learn is that the money does not grow on tree. For most of us we never had the opportunity to be dependent only on ourselves financially. Damn, I miss those days when we were small and relatives used to give us money which were enough to buy momos every day for a week. Anyways lets get started.  
 
-**NOTE**: Taking random advice from a random internet guy is injurious to health. Information on this site might turn out to be wrong in the near future. The idea of this post is NOT to give you any tips but to **introduce** you to the financial terms and the options that you have, for beginners.
+**NOTE**: Taking random advice from a random internet guy is injurious to health. Information on this site might turn out to be wrong in the near future. The idea of this post is NOT to give you any tips but to **introduce** you to the financial terms and the options that beginners have, for investment.
 
 ![Random image for beautification](/media/fin_plan.jpeg)
 
@@ -82,3 +82,13 @@ I do believe that by now you should be aware of the huge bills that hospitals ch
 There are a lot of different things to consider for health insurance like room rent limit, disease sub limits, co-payments, etc. Generally there are top up also available if you want to add a member or you want to add payment for particular disease. You can read more about it here: [Health Insurance 101](https://joinditto.in/health-insurance/articles/when-should-you-opt-for-opd/).
   
 The best thing is that these insurance are covered under tax saving 80C scheme. You are anyways paying tax why not invest that amount in the insurance instead?
+  
+In the next post we will go through the investments that you can make. Tell me who does not want to double their money.
+
+#### Useful Materials:
+[Paisa Vaisa podcast](https://ivmpodcasts.com/paisavaisa): If you love listening to podcast then this another great podcast. Start right from the episode 1.  
+[2 Cents YT channel](https://www.youtube.com/c/TwoCentsPBS): Good and practical advices for how to spend your money  
+[r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/wiki/index): For introduction to investments. Can a dull for beginners but a great sub to references from.  
+  
+   
+![Paisa double meme](/media/paisa-double-meme.jpeg)

@@ -1,3 +1,5 @@
+attach a pic of laxmi chit funds
+
 ### Investments  
 Once the insurance is done and considered in your monthly expenses. Now whatever money you save, can be sent for investments even as little as Rs. 100 can be invested under right scheme. 
 
